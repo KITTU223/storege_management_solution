@@ -2,7 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { Models } from "node-appwrite";
 
-import ActionDropdown from "@/components/ActionDropdown";
+import ActionDropdown from "@/components/ActionDropDown";
 import { Chart } from "@/components/Chart";
 import { FromattedDateTime } from "@/components/FromattedDateTime";
 import { Thumbnail } from "@/components/Thumbnail";
